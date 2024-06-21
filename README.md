@@ -2,7 +2,8 @@
 
 > Programación
 
-Desarrollo Web (HTML, CSS, JS)-
+Desarrollo Web (HTML, CSS, JS)
+
 Desarrollo de Software (SQL, PY).
 
 > Música
