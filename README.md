@@ -1,7 +1,10 @@
-# Loluok
+## Buenas! Soy Lolu <sup>18</sup> 🦋
 
-Soy estudiante de Desarrollo Web (HTML, CSS, JS), y de Desarrollo de Software (SQL, PY).
+> Programación
+Desarrollo Web (HTML, CSS, JS)-
+Desarrollo de Software (SQL, PY).
 
-Tambien estuve en un ambiente artistico, soy musica (bajo, guitarra, violin, piano, ukelele)
+> Música
+Teoría musical (bajo, guitarra, violin, piano, ukelele).
 
-Nada adioh
+[Mis redes](https://linktr.ee/loluok) 🍂
