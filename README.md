@@ -1,13 +1,13 @@
-## Buenas! Soy Lolu <sup>18</sup> 🦋
+## Hey! I'm Lolu <sup>18</sup> 🦋
 
-> Programación
+> Programming
 
-Desarrollo Web (HTML, CSS, JS)
+Web Development (HTML, CSS, JS)
 
-Desarrollo de Software (SQL, PY).
+Software Developer (SQL, PY).
 
-> Música
+> Music
 
-Teoría musical (bajo, guitarra, violin, piano, ukelele).
+Music theory (bass, guitar, violin, piano, ukulele).
 
-[Mis redes](https://linktr.ee/loluok) 🍂
+[My social media](https://linktr.ee/loluok) 🍂
