@@ -10,4 +10,4 @@ Software Developer (SQL, PY).
 
 Music theory (bass, guitar, violin, piano, ukulele).
 
-[My social media](https://linktr.ee/loluok) 🍂
+[My social media]([https://linktr.ee/loluok](https://www.instagram.com/locommenge/)) 🍂
